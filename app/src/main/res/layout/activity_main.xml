@@ -10,6 +10,6 @@
          android:textStyle="bold"
          android:textColor="#FF00FF"
          android:background="#00FFFF"
-         android:text="I like cheese." />
+         android:text="I like cheese..." />
 
 </LinearLayout>
